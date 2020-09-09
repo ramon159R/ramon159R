@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Opa, Eu me chamo Ramon. (>‿◠)✌
+### Sou um iniciante na programação!💪💪
+### Estudante da Generation Brasil.
+### Querendo realizar um sonho de trabalhar com programação viajando ao redor do mundo! (👍≖‿‿≖)👍 👍(≖‿‿≖👍)
 <!--
 **ramon159R/ramon159R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
